@@ -1,0 +1,27 @@
+.Firstheading {
+    color: aqua;
+    font-family: sans-serif;  
+}
+
+.Secondheading {
+    color: aqua;
+}
+
+#paragraph {
+    color: green;
+}
+
+ul {
+list-style-type: circle;
+}
+ol{
+list-style-type: upper-roman;
+}
+
+
+p {
+    font-size: large;
+    color: blue;
+}
+
+
